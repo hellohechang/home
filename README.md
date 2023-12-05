@@ -10,4 +10,4 @@
 
 所以，自己动手丰衣足食
 
-![](https://github.com/hellohechang/home/blob/main/img/home.png)
+![](https://github.com/hellohechang/home/blob/main/img/home.gif)
